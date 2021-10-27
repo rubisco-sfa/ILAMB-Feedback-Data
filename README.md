@@ -1,5 +1,7 @@
 # ILAMB-Feedback-Data
 
+[![DOI](https://zenodo.org/badge/421198214.svg)](https://zenodo.org/badge/latestdoi/421198214)
+
 This repository contains the raw data from a community feedback form
 which is available [here](https://www.ilamb.org/crowdsource/), last
 collected in April, 2020. The form was used to collect expert opinions about which bias from a pair of models appears 'better'. We then use this information to create ratings based on Elo's algorithm and compare to ILAMB methods of scoring.
